@@ -1,0 +1,393 @@
+wildlife_id,wildlife_species,wildlife_size
+0,Unknown bird - medium,Medium
+1,Rock pigeon,Small
+2,European starling,Small
+5,Unknown bird - small,Small
+11,Canada goose,Large
+15,Snow goose,Large
+16,Black-headed munia,Small
+21,Ring-billed gull,Medium
+22,Sandhill crane,Large
+28,Western meadowlark,Small
+31,Mallard,Medium
+35,Turkey vulture,Large
+36,Tundra swan,Large
+42,Unknown bird or bat,Medium
+45,Killdeer,Small
+47,Western sandpiper,Small
+49,Wild turkey,Large
+52,Lapland longspur,Small
+59,Herring gull,Medium
+61,Cape May warbler,Small
+67,American crow,Medium
+72,Common myna,Small
+75,Unknown bird - large,Large
+80,Red-winged blackbird,Small
+81,American kestrel,Small
+91,Mourning dove,Small
+107,Eastern meadowlark,Small
+117,Upland sandpiper,Small
+129,Rock pigeon,
+144,Purple martin,Small
+151,Brown-headed cowbird,Small
+154,American robin,Small
+168,Horned lark,Small
+174,Mute swan,Large
+211,American pipit,Small
+218,Snow bunting,Small
+221,Gadwall,Medium
+233,White-tailed deer,Large
+237,Pacific golden-plover,Small
+281,Western gull,Medium
+297,Barn swallow,Small
+298,Cattle egret,Small
+300,Redhead,Medium
+301,Common raven,Medium
+303,Laughing gull,Small
+310,Bald eagle,Large
+315,Bank swallow,Small
+329,Finches,Small
+333,Great-tailed grackle,Small
+357,Tree swallow,Small
+399,Great black-backed gull,Large
+404,Black-bellied plover,Small
+425,Least tern,Small
+435,Common grackle,Small
+438,Great cormorant,Large
+478,Cedar waxwing,Small
+486,Greater white-fronted goose,Large
+507,American woodcock,Small
+511,Red-vented bulbul,Small
+515,Double-crested cormorant,Large
+558,Pigeons,Small
+596,Least sandpiper,Small
+597,Semipalmated plover,Small
+612,Spotted dove,Small
+624,Cliff swallow,Small
+632,Whimbrel,Small
+634,Franklin's gull,Small
+655,Great egret,Medium
+657,Wood duck,Medium
+679,Northern pintail,Medium
+723,Dunlin,Small
+778,Lesser scaup,Medium
+802,Red-breasted merganser,Medium
+814,California gull,Medium
+818,Great horned owl,Large
+821,American coot,Medium
+855,House sparrow,Small
+864,Zebra dove,Small
+1010,Northwestern crow,Small
+1079,Barn owl,Small
+1094,Sanderling,Small
+1105,Northern shoveler,Medium
+1144,Nutmeg mannikin,Small
+1181,Black-billed magpie,Small
+1186,White-throated munia,Small
+1200,Common nighthawk,Small
+1259,Bonaparte's gull,Small
+1309,Baird's sandpiper,Small
+1350,Glaucous-winged gull,Medium
+1368,Black vulture,Large
+1397,Mottled duck,Medium
+1456,Black-capped chickadee,Small
+1628,Brown noddy,Small
+1670,Gray partridge,Small
+1688,House finch,Small
+1715,Mew gull,Small
+1725,Scissor-tailed flycatcher,Small
+1730,Lark bunting,Small
+1731,Pectoral sandpiper,Small
+1737,Brown pelican,Large
+1748,Short-billed dowitcher,Small
+1806,White tern,Small
+1814,Semipalmated sandpiper,Small
+1872,Green-winged teal,Small
+1889,Blackpoll warbler,Small
+1890,Blue-winged teal,Small
+1955,White-throated sparrow,Small
+1962,Swainson's hawk,Medium
+2014,Unknown bird - small,
+2026,Red-tailed hawk,Medium
+2062,Mountain chickadee,Small
+2109,Savannah sparrow,Small
+2208,Meadowlarks,Small
+2246,Gray-headed chickadee,Small
+2268,Western grebe,Medium
+2271,Peregrine falcon,Medium
+2290,Chukar,Medium
+2342,American golden-plover,Small
+2445,American white pelican,Large
+2462,Grasshopper sparrow,Small
+2475,American goldfinch,Small
+2596,Blackbirds,Small
+2634,Wood stork,Large
+2638,Anhinga,Medium
+2652,Glaucous gull,Large
+2668,Yellow-rumped warbler,Small
+2670,Black-necked stilt,Small
+2680,Golden-crowned sparrow,Small
+2684,Pine siskin,Small
+2721,Ring-necked duck,Medium
+2735,Bohemian waxwing,Small
+2752,Common merganser,Large
+2780,Brewer's blackbird,Small
+2800,Wilson's snipe,Small
+2813,Mountain bluebird,Small
+2831,American avocet,Small
+2855,Yellow warbler,Small
+2896,Chipping sparrow,Small
+2960,Great blue heron,Large
+2989,Yellow-crowned night-heron,Medium
+3012,Chimney swift,Small
+3033,Ruddy turnstone,Small
+3039,Cave swallow,Small
+3040,Little brown bat,Small
+3115,Merlin,Small
+3141,Broad-winged hawk,Medium
+3192,Ruby-crowned kinglet,Small
+3214,Long-tailed duck,Medium
+3220,American black duck,Medium
+3277,Hawks,Large
+3283,Rock sandpiper,Small
+3289,Piping plover,Small
+3327,Greater scaup,Medium
+3330,Sparrows,Small
+3335,Bonin petrel,Small
+3342,Swallows,Small
+3383,Western kingbird,Small
+3426,Doves,Small
+3431,Bobolink,Small
+3452,Egrets,Medium
+3494,Sandpipers,Small
+3516,Lark sparrow,Small
+3604,Gulls,Medium
+3610,Osprey,Large
+3658,Yellow-headed blackbird,Small
+3673,Green heron,Small
+3695,Ruddy duck,Medium
+3730,Ducks,Medium
+3741,Varied thrush,Small
+3765,American wigeon,Medium
+3823,Ring-billed gull,Small
+3828,McKay's bunting,Small
+3831,Canvasback,Medium
+3834,Long-billed dowitcher,Small
+3904,White-crowned sparrow,Small
+3922,White-faced ibis,Medium
+3925,Brazilian free-tailed bat,Small
+3933,Brown pelican,
+3936,Gray catbird,Small
+3964,Laysan albatross,Large
+4018,Prairie falcon,Medium
+4093,American tree sparrow,Small
+4140,Perching birds (y),Small
+4144,Red-eyed vireo,Small
+4156,Gray flycatcher,Small
+4170,Baltimore oriole,Small
+4175,Red avadavat,Small
+4216,Tree swallow,Medium
+4229,Black-bellied whistling-duck,Medium
+4244,Northern flicker,Small
+4250,Geese,Large
+4292,Horned grebe,Medium
+4321,Parrots,Small
+4344,Buff-breasted sandpiper,Small
+4418,Snowy plover,Small
+4421,Dark-eyed junco,Small
+4517,Yellow-legged gull,Medium
+4532,Java sparrow,Small
+4673,White-winged dove,Small
+4737,Short-eared owl,Small
+4789,Ring-necked pheasant,Medium
+4797,Northern harrier,Medium
+4873,Unknown bird - medium,
+4939,Unknown bird - medium,Large
+4969,Coyote,Large
+5002,Red fox,Large
+5115,Northern bobwhite,Small
+5199,Woodchuck,Large
+5503,Common yellowthroat,Small
+5695,Brant,Medium
+5736,Northern saw-whet owl,Small
+5739,Snowy owl,Large
+5747,Great horned owl,
+5803,Pied-billed grebe,Medium
+5949,Common loon,Large
+5989,Boat-tailed grackle,Small
+6048,Unknown bird - large,
+6096,Willet,Small
+6120,Red-tailed tropicbird,
+6155,Raccoon,Large
+6384,Burrowing owl,Small
+6407,Striped skunk,Large
+6530,Mule deer,Large
+6579,European golden-plover,Small
+6692,Ring-billed gull,
+6772,Muscovy duck,Large
+6913,Hairy woodpecker,Small
+6924,Rough-legged hawk,Medium
+7057,Northern mockingbird,Small
+7261,Acadian flycatcher,Small
+7600,Red-legged kittiwake,Small
+7673,Scarlet tanager,Small
+7688,Virginia opossum,Large
+7752,Snowy egret,Small
+7901,White-tailed kite,Small
+8080,Black-headed munia,
+8224,Black-tailed jackrabbit,Large
+8278,Violet-green swallow,Small
+8454,Yellow-billed magpie,Small
+8499,Domestic cat,Large
+8610,Common ground-dove,Small
+8674,Western tanager,Small
+8862,Caspian tern,Medium
+8921,Gray francolin,Small
+9114,Western bluebird,Small
+9130,Swainson's thrush,Small
+9382,Osprey,
+9491,Mallard,
+9510,Cooper's hawk,Medium
+9762,Northern rough-winged swallow,Small
+9827,Prairie dog,Medium
+9947,Nashville warbler,Small
+10047,Blue jay,Small
+10079,Red-tailed hawk,
+10403,Fairy tern,Small
+10464,Great frigatebird,Large
+10468,Ptarmigans,Medium
+10761,Barred owl,Medium
+10771,Red-shouldered hawk,Medium
+10827,Red-naped sapsucker,Small
+10937,Yellow-bellied sapsucker,Small
+10940,Fox sparrow,Small
+11325,American alligator,Large
+11367,Eastern kingbird,Small
+11534,Greater sage-grouse,Large
+11591,Black-crowned night-heron,Medium
+11620,Thayer's gull,Medium
+11846,Domestic dog,Large
+11935,American bittern,Medium
+12138,Pacific golden-plover,
+12330,Belted kingfisher,Small
+12336,Crested caracara,Medium
+12361,Common goldeneye,Medium
+12522,Hermit thrush,Small
+12692,Gunnison's prairie dog,Medium
+12927,Eastern phoebe,Small
+13086,Vaux's swift,Small
+13351,Common tern,Small
+13911,Golden-crowned kinglet,Small
+14056,Black-footed albatross,Large
+14070,Northern cardinal,Small
+14071,Brown thrasher,Small
+14123,Chestnut-collared longspur,Small
+14225,Bufflehead,Medium
+14293,Orchard oriole,Small
+14546,Wilson's warbler,Small
+14645,Common waxbill,Small
+15010,Pine warbler,Small
+15406,Hawks,Medium
+15740,Whooping crane,Large
+16170,Canada goose,
+16272,Sage sparrow,Small
+16296,Vesper sparrow,Small
+16340,Red knot,Small
+16403,Lincoln's sparrow,Small
+16451,Trumpeter swan,Large
+16499,Red-throated loon,Medium
+16654,Field sparrow,Small
+16828,White-throated swift,Small
+16911,Song sparrow,Small
+17021,Sky lark,Small
+17065,Yellow bittern,Small
+17374,Black-throated blue warbler,Small
+17546,Ferruginous hawk,Medium
+17957,Anna's hummingbird,Small
+18299,Greater yellowlegs,Small
+18477,Northern parula,Small
+18743,California towhee,Small
+18954,Cinnamon teal,Small
+19205,Armadillo,Large
+19222,Tropical mockingbird,Small
+19309,Black francolin,Medium
+19577,Chuck-will's-widow,Small
+19622,Wood duck,
+19948,Gray-cheeked thrush,Small
+19973,Carolina chickadee,Small
+19988,House wren,Small
+20073,Swamp sparrow,Small
+20091,Red-crested cardinal,Small
+20236,Palm warbler,Small
+20379,Red-tailed hawk,Large
+20539,Grackles,Small
+20666,Lesser goldfinch,Small
+21033,Ovenbird,Small
+21059,Gulls,Small
+21061,Rose-breasted grosbeak,Small
+21096,Black vulture,
+21164,Plovers,Small
+21175,Egrets,
+21190,Wood warblers,Small
+21253,Gulls,
+21256,Northern waterthrush,Small
+21470,Owls,Medium
+21610,Unknown bird or bat,Small
+21626,Cattle egret,
+21691,Semipalmated plover,
+21716,American crow,Small
+21781,Hawks,Small
+21981,Loggerhead shrike,Small
+22091,Golden eagle,Large
+22183,Ruby-throated hummingbird,Small
+22191,Wilson's phalarope,Small
+22262,Veery,Small
+22403,Cassin's vireo,Small
+22511,Silver-haired bat,Small
+22520,"Pigeons, doves",Medium
+22588,Indigo bunting,Small
+22650,American kestrel,Medium
+22657,Purple finch,Small
+22806,Sparrows,
+22838,New World Vultures,Large
+22852,American redstart,Small
+22921,Nelson's sharp-tailed sparrow,Small
+22994,Japanese white-eye,Small
+23135,Northern hawk owl,Medium
+23254,Blackbirds,Medium
+23280,White-tailed jackrabbit,Large
+23354,Zebra dove,
+23402,Doves,
+23493,Sharp-shinned hawk,Small
+23542,Perching birds (y),Medium
+23590,Orange-crowned warbler,Small
+23645,Yellow-billed cuckoo,Small
+23654,Owls,Large
+23689,Long-tailed jaeger,Small
+23741,Blackburnian warbler,Small
+23750,Gulls,Large
+23761,Pacific-slope flycatcher,Small
+23766,Spotted sandpiper,Small
+23786,Grebes,
+23849,Sooty tern,Small
+24067,Mourning dove,
+24131,Least bittern,Small
+24190,Big brown bat,Small
+24285,"Hawks, eagles, vultures",Large
+24407,Laughing gull,Medium
+24474,Western meadowlark,Medium
+24480,Bushtit,Small
+24572,Wilson's plover,Small
+24616,Peregrine falcon,Large
+24672,Common nighthawk,
+24809,Canada warbler,Small
+24916,White-eyed vireo,
+24983,Sora,Small
+25029,Black-throated green warbler,Small
+25110,Yellow-breasted chat,Small
+25186,Common poorwill,Small
+25265,American coot,
+25266,Eastern towhee,Small
+25283,Double-crested cormorant,Medium
+25295,Pine grosbeak,Small
+25503,Barn owl,

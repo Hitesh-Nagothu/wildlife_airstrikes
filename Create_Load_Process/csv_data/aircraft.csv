@@ -1,0 +1,352 @@
+aircraft_model,engines,aircraft_type
+B-737-400,2,Airplane
+MD-80,2,Airplane
+C-500,2,Airplane
+CL-RJ100/200,2,Airplane
+LEARJET-25,2,Airplane
+A-320,2,Airplane
+DC-9-30,2,Airplane
+A-330,2,Airplane
+FOKKER F100,2,Airplane
+C-421,2,Airplane
+C-560,2,Airplane
+B-737-200,2,Airplane
+DC-9-50,2,Airplane
+B-737,2,Airplane
+B-737-300,2,Airplane
+SAAB-340,2,Airplane
+MD-82,2,Airplane
+HAWKER 800,2,Airplane
+FOKKER F28 MK 1000,2,Airplane
+B-757-200,2,Airplane
+EMB-135,2,Airplane
+DC-9-40,2,Airplane
+B-727-200,3,Airplane
+DC-10-30,3,Airplane
+DC-9-10,2,Airplane
+EMB-145,2,Airplane
+B-747-1/200,4,Airplane
+B-52H,2,Airplane
+DC-9,2,Airplane
+B-737-500,2,Airplane
+B-737-700,2,Airplane
+B-747-400,4,Airplane
+BE-58  BARON,2,Airplane
+B-767-300,2,Airplane
+DC-10,3,Airplane
+PA-31 NAVAJO,2,Airplane
+B-727,3,Airplane
+C-172,1,Airplane
+BA-31 JETSTR,2,Airplane
+LEARJET-35,2,Airplane
+MD-88,2,Airplane
+BE-1900,2,Airplane
+IAI-1124,2,Airplane
+LEARJET-31,2,Airplane
+C-402,2,Airplane
+SHORTS SC7,2,Airplane
+B-737-800,2,Airplane
+A-319,2,Airplane
+CITATION II,2,Airplane
+ATR-72,2,Airplane
+DA-20 FALCON,2,Airplane
+BE-400 BJET,2,Airplane
+DA-2000,2,Airplane
+HAWKER-SDLY HS125,2,Airplane
+B-767,2,Airplane
+HAWKER 1000,2,Airplane
+PA-28,1,Airplane
+BE-23 SUNDOWNER,1,Airplane
+BELL-206,1,
+DHC8 DASH 8,2,Airplane
+BE-90  KING,2,Airplane
+B-767-200,2,Airplane
+BA-146,4,Airplane
+GULFAERO III,2,Airplane
+BE-300 KING,2,Airplane
+MU2,2,Airplane
+DORNIER,2,Airplane
+BE-200 KING,2,Airplane
+BA-41 JETSTR,2,Airplane
+A-310,2,Airplane
+EMB-110,2,Airplane
+B-767-400,2,Airplane
+DA-10 FALCON,2,Airplane
+C-208,1,Airplane
+EMB-120,2,Airplane
+PA-31T CHEYENNE II,2,Airplane
+DA-50 FALCON,3,Airplane
+RKWLTRBO 690,2,Airplane
+C-17A,,Airplane
+DORNIER 328,2,Airplane
+LEARJET-60,2,Airplane
+AT-38B,,Airplane
+B-777-200,2,Airplane
+RKWL SABRLNR,2,Airplane
+CL-601/604,2,Airplane
+T-38A,,Airplane
+AVRO RJ 85,4,Airplane
+SHORTS 360,2,Airplane
+DC-8-70,4,Airplane
+PILATUS PC12,1,Airplane
+C-21A,,Airplane
+CL-600,2,Airplane
+DA-900,3,Airplane
+MD-83,2,Airplane
+LEARJET-45,2,Airplane
+GULFAERO IV,2,Airplane
+CITATION X,2,Airplane
+LOCKHEED C-130,4,Airplane
+IAI 1126,2,Airplane
+B-717-200,2,Airplane
+C-650,2,Airplane
+C-210 CENTUR,1,Airplane
+SA227 AC METRO III,2,Airplane
+RKWL SHRIKE,2,Airplane
+PA-30 TWIN COMANCHE,2,Airplane
+LOCKHEED 1329,4,Airplane
+C-182 SKYLAN,1,Airplane
+C-150,1,Airplane
+MD-11,3,Airplane
+C-152,1,Airplane
+C-310,2,Airplane
+B-747,4,Airplane
+FAIRCHILD SA227,2,Airplane
+C-130E,,Airplane
+A-10A,,Airplane
+A-340,4,Airplane
+B-727-100,3,Airplane
+DC-8-63,4,Airplane
+PA-31T CHEYENNE,2,Airplane
+PA-24 COMANCHE,1,Airplane
+LEARJET-55,2,Airplane
+F-16D,,Airplane
+MOONEY-20B/C,1,Airplane
+GLOBAL EXPRS,2,Airplane
+AYRES THRUSH,1,Airplane
+PA-32,1,Airplane
+DORNIER 328J,2,Airplane
+PA-23-250,2,Airplane
+BE-35,1,Airplane
+MD-90-30,2,Airplane
+PA-44 SEMINOLE,2,Airplane
+C-441 CONQUE,2,Airplane
+DC-10-10,3,Airplane
+BE-36,1,Airplane
+ATR-42,2,Airplane
+PA-34 SENECA,2,Airplane
+GULFSTRM 200,2,Airplane
+MU-300,2,Airplane
+BE-100 KING,2,Airplane
+BE-76  DUCHESS,2,Airplane
+BELLANCA CMP,1,Airplane
+C-414,2,Airplane
+CL-RJ700,2,Airplane
+BE-55  BARON,2,Airplane
+GULFSTRM II,2,Airplane
+SHORTS 330,2,Airplane
+B-757,2,Airplane
+B-757-300,2,Airplane
+B-737-900,2,Airplane
+G-159,2,Airplane
+C-550,2,Airplane
+CITATIONJET,2,Airplane
+MERLIN IV,2,Airplane
+LOCKHEED P3,4,Airplane
+BE-60 DUKE,2,Airplane
+CONVAIR 640,2,Airplane
+C-337,2,Airplane
+SABRLNR-65,2,Airplane
+PARTENAVIA68,2,Airplane
+A-321,2,Airplane
+A-318,2,Airplane
+EMB-170,2,Airplane
+IAI ASTRA JT,2,Airplane
+C-425,2,Airplane
+FOKKER 70,2,Airplane
+DC-8,4,Airplane
+DHC6,2,Airplane
+BE-99,2,Airplane
+CL-RJ900,2,Airplane
+C-185 SKYWAG,1,Airplane
+EMB-190,2,Airplane
+PITTS,1,Airplane
+CRJ-440,,Airplane
+CITATION EXL,2,Airplane
+C-177,1,Airplane
+C-404,2,Airplane
+CITATION,2,Airplane
+CHALLENGER 300,2,Airplane
+AEROS 350,1,
+C-340,2,Airplane
+DIAMOND 42,2,Airplane
+IAI GALAXY,2,Airplane
+MISC - OTHER,,Airplane
+CIRRUS SR 20/22,1,Airplane
+PA-46 MALIBU,1,Airplane
+CESSNA UNKN,,Airplane
+C-320,2,Airplane
+BA-125-800,2,Airplane
+CAP AVION MUDRY,1,Airplane
+B-777-300,2,Airplane
+MOONEY-20J,1,Airplane
+CITATION MUSTANG 510,,Airplane
+DA-200 FALCON,2,Airplane
+PIAGGIO P180,2,Airplane
+C-680,2,Airplane
+DC-6,4,Airplane
+MD-87,2,Airplane
+DORNIER 228,2,Airplane
+BA-125-700,2,Airplane
+LEARJET-36,2,Airplane
+RKWL AC-680,2,Airplane
+CHAMPION CITABRIA,1,Airplane
+CASA C-212,2,Airplane
+HAWKER 900,,Airplane
+GULFSTREAM V,2,Airplane
+B-747-8 SERIES,4,Airplane
+C-207 SKYWAG,1,Airplane
+BD-700,,Airplane
+BE-65 QUEEN,2,Airplane
+PA-31-350,,Airplane
+AEROS SA365,1,
+B-787-800,,Airplane
+SOCATA TB-20,1,Airplane
+DA FALCON 7X,3,Airplane
+RAYTHEON 390,2,Airplane
+HU-25,,Airplane
+HOMEBUILT,,Airplane
+LEARJET-24,2,Airplane
+AA-5,1,Airplane
+MOONEY M20,1,Airplane
+F-15E,,Airplane
+FOKKER F28 MK 4000,2,Airplane
+L-1011,3,Airplane
+VOLPARE BE18,2,Airplane
+DC-8-61,4,Airplane
+BELLANCA CIT,1,Airplane
+KC-135R,,Airplane
+SA226 TC,2,Airplane
+GRUMMAN,,Airplane
+MOONEY-20K,1,Airplane
+GRUMAMER AA5,1,Airplane
+BE-18,2,Airplane
+DC-3,2,Airplane
+C-206 STATIO,1,Airplane
+MC-130H,,Airplane
+BE-95,2,Airplane
+BELLANCA,1,Airplane
+BE-33,1,Airplane
+AGUSTA 109,2,
+MERLIN III,2,Airplane
+GRUMMAN GA7,2,Airplane
+MOONEY UNKN,1,Airplane
+BA-146-300,4,Airplane
+ROBINSON R22,1,
+DIAMOND 20,1,Airplane
+HUGHES 500,1,
+HH-60J,,
+PA-23 APACHE,2,Airplane
+BE-77  SKIPPER,1,Airplane
+B-1B,,Airplane
+C-120/140,1,Airplane
+F-16C,,Airplane
+SABRLNR-80A,2,Airplane
+SIKORSKY S-70,,
+T-1A,,Airplane
+F-15C,,Airplane
+E-8C,,Airplane
+PA-22 TP/COLT,1,Airplane
+LOCKHEED 382,4,Airplane
+EMB UNKN,2,Airplane
+RKWL CMDR114,1,Airplane
+SOCATA TBM700,1,Airplane
+PA-60 601,2,Airplane
+CANADAIR,,Airplane
+FOKKER F27,2,Airplane
+PA-38 TOMAHAWK,1,Airplane
+MBB BK117,2,
+EXTRA 300,1,Airplane
+B-747-300,4,Airplane
+SIKORSKY S-76,2,
+AEROS SN601,2,Airplane
+AA-1,1,Airplane
+EC-135,2,
+PA-60 600,2,Airplane
+GRUMMAN G73,2,Airplane
+PA-42,2,Airplane
+DIAMOND 40,1,Airplane
+C-180,1,Airplane
+C-406 CARAVA,2,Airplane
+BA-146-200,4,Airplane
+C-195,1,Airplane
+PA-12,1,Airplane
+CL-215,,Airplane
+AERONCA 7,1,Airplane
+B-737-100,2,Airplane
+DHC7 DASH 7,4,Airplane
+CHAMP 8KCAB,1,Airplane
+SAAB 2000,2,Airplane
+GIPPSLAND GA-8,1,Airplane
+AMD ALARUS CH2000,,Airplane
+LAKE LA4-200,1,Airplane
+AG-5B,1,Airplane
+LANCAIR COLUMBIA,1,Airplane
+ROBINSON R44,1,
+AEROS 355,2,
+SOCATA TB-10,1,Airplane
+EC-130,,
+BELL-407,1,
+G-164 AG CAT,1,Airplane
+A-300,4,Airplane
+ERCO 415,1,Airplane
+HUGHES 269A,1,
+ECLIPSE 500,,Airplane
+SOCATA TB9,1,Airplane
+CONVAIR 340,2,Airplane
+PA-18 SUPER CUB,1,Airplane
+CESSNA LC-41,,Airplane
+SA227 DC METRO 23,,Airplane
+HELIO COURIER 800,1,Airplane
+C-305,1,Airplane
+AGUSTA AW 139,,
+BN-2A ISLAND,2,Airplane
+BELL-430,2,
+MAULE M-7,1,Airplane
+GRUMMAN S-2 TRACKER,,Airplane
+HH-65,,
+BELL-412,1,
+BELL-205A1,1,
+SIKORSKY S-92,,
+HC-130,,Airplane
+T-38N,,Airplane
+AT 301,1,Airplane
+PIPERSPORT,1,Airplane
+MD-900,2,
+DHC2 BEAVER,1,Airplane
+B-707,4,Airplane
+C-401,2,Airplane
+T-38,,Airplane
+B-737-600,,Airplane
+HAWKER 4000,2,Airplane
+MD-90-10,2,Airplane
+A-380,4,Airplane
+BE-19,1,Airplane
+LEARJET UNKN,2,Airplane
+A-23 MUSKATEER,,Airplane
+LOCKHEED P3A,,Airplane
+CRJ-900,,Airplane
+HUGHES 369,1,
+BELLANCA 1730,1,Airplane
+GROB,1,Airplane
+C-303,2,Airplane
+FLIGHT DESIGN CTSW,,Airplane
+CL-RJ705,,Airplane
+PA-25 PAWNEE,1,Airplane
+EUROCOPTER BK 117,,
+EMB 500,2,Airplane
+LIBERTY XL-2,1,Airplane
+EC-120,1,
+F/A-18,,Airplane
+BELL-212,1,
+DA-40,,Airplane
